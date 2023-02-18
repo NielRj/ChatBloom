@@ -2,9 +2,9 @@
 
 Chatbot that simulates a conversation with any famous person. Dead or Alive.
 
-## GPT-NEO
+## Bloom
 
-Fueled by GPT-NEO via the Huggingface API
+Fueled by Bloom via the Huggingface API
 
 ## How To
 
